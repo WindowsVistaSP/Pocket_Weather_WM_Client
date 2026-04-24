@@ -1,0 +1,10 @@
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\bin\Debug\PocketWeather.exe
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\bin\Debug\PocketWeather.pdb
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Debug\PocketWeather.Form1.resources
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Debug\PocketWeather.Form2.resources
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Debug\PocketWeather.Properties.Resources.resources
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Debug\PocketWeather.csproj.GenerateResource.Cache
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Debug\PocketWeather.exe
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Debug\PocketWeather.pdb
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Debug\PocketWeather.Form3.resources
