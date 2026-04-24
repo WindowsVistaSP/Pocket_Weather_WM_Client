@@ -1,0 +1,19 @@
+D:\Users\Windows1\AppData\Local\Temporary Projects\PocketWeather\bin\Release\PocketWeather.exe
+D:\Users\Windows1\AppData\Local\Temporary Projects\PocketWeather\bin\Release\PocketWeather.pdb
+D:\Users\Windows1\AppData\Local\Temporary Projects\PocketWeather\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Windows1\AppData\Local\Temporary Projects\PocketWeather\obj\Release\PocketWeather.Form1.resources
+D:\Users\Windows1\AppData\Local\Temporary Projects\PocketWeather\obj\Release\PocketWeather.Form2.resources
+D:\Users\Windows1\AppData\Local\Temporary Projects\PocketWeather\obj\Release\PocketWeather.Properties.Resources.resources
+D:\Users\Windows1\AppData\Local\Temporary Projects\PocketWeather\obj\Release\PocketWeather.csproj.GenerateResource.Cache
+D:\Users\Windows1\AppData\Local\Temporary Projects\PocketWeather\obj\Release\PocketWeather.exe
+D:\Users\Windows1\AppData\Local\Temporary Projects\PocketWeather\obj\Release\PocketWeather.pdb
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\bin\Release\PocketWeather.exe
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\bin\Release\PocketWeather.pdb
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Release\PocketWeather.Form1.resources
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Release\PocketWeather.Form2.resources
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Release\PocketWeather.Form3.resources
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Release\PocketWeather.Properties.Resources.resources
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Release\PocketWeather.csproj.GenerateResource.Cache
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Release\PocketWeather.exe
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeather\PocketWeather\obj\Release\PocketWeather.pdb

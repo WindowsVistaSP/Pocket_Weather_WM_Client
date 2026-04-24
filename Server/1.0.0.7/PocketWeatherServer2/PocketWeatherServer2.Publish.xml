@@ -1,0 +1,14 @@
+<publishData>
+  <publishTarget publishUrl="D:\Users\Windows1\Desktop\PocketWeatherServer\">
+    <file relUrl="bin/PocketWeatherServer2.pdb" publishTime="04/06/2026 10:40:51" />
+    <file relUrl="bin/PocketWeatherServer2.dll" publishTime="04/06/2026 10:40:52" />
+    <file relUrl="Service1.asmx" publishTime="04/04/2026 21:53:22" />
+    <file relUrl="Web.config" publishTime="04/05/2026 08:40:31" />
+  </publishTarget>
+  <publishTarget publishUrl="D:\Users\Windows1\Desktop\WebSiteTEST1.0.0.5\">
+    <file relUrl="bin/PocketWeatherServer2.pdb" publishTime="04/05/2026 08:27:44" />
+    <file relUrl="bin/PocketWeatherServer2.dll" publishTime="04/05/2026 08:27:44" />
+    <file relUrl="Service1.asmx" publishTime="04/04/2026 21:53:22" />
+    <file relUrl="Web.config" publishTime="04/05/2026 08:40:31" />
+  </publishTarget>
+</publishData>

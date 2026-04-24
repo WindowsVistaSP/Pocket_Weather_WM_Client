@@ -1,0 +1,7 @@
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeatherServer2\PocketWeatherServer2\bin\PocketWeatherServer2.dll
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeatherServer2\PocketWeatherServer2\bin\PocketWeatherServer2.pdb
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeatherServer2\PocketWeatherServer2\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeatherServer2\PocketWeatherServer2\obj\Release\PocketWeatherServer2.csproj.GenerateResource.Cache
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeatherServer2\PocketWeatherServer2\obj\Release\PocketWeatherServer2.dll
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeatherServer2\PocketWeatherServer2\obj\Release\PocketWeatherServer2.pdb
+D:\Users\Windows1\Documents\Visual Studio 2008\Projects\PocketWeatherServer2\PocketWeatherServer2\obj\Release\PocketWeatherServer2.Service1.resources

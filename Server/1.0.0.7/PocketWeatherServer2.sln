@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketWeatherServer2", "PocketWeatherServer2\PocketWeatherServer2.csproj", "{590ED1A2-AFD5-4B78-A956-2BDD4E3E44CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590ED1A2-AFD5-4B78-A956-2BDD4E3E44CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590ED1A2-AFD5-4B78-A956-2BDD4E3E44CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590ED1A2-AFD5-4B78-A956-2BDD4E3E44CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590ED1A2-AFD5-4B78-A956-2BDD4E3E44CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
